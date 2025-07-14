@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cadet/static/css/main.5ee9d7c9.css",
+    "main.js": "/cadet/static/js/main.1b438ee8.js",
+    "static/js/453.670e15c7.chunk.js": "/cadet/static/js/453.670e15c7.chunk.js",
+    "static/media/logo.png": "/cadet/static/media/logo.b535fbd9e6cf39e92bc1.png",
+    "index.html": "/cadet/index.html",
+    "main.5ee9d7c9.css.map": "/cadet/static/css/main.5ee9d7c9.css.map",
+    "main.1b438ee8.js.map": "/cadet/static/js/main.1b438ee8.js.map",
+    "453.670e15c7.chunk.js.map": "/cadet/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee9d7c9.css",
+    "static/js/main.1b438ee8.js"
+  ]
+}
